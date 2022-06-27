@@ -20,3 +20,6 @@ Sitios de referencia:
 
 5 A lo que no apuntamos.
 [Viveros y Jardinería online - Planfor](https://www.planfor.es/)
+
+6 Link de Trello. 
+- [https://trello.com/invite/b/BKuDBoLm/9400a9edc09801befd72123acda46c65/procesos]
